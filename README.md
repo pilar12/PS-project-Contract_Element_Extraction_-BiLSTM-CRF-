@@ -15,3 +15,7 @@ Files
 3.Model2.h5-pretrained model(https://drive.google.com/open?id=10C12Fl16X-mcqCdv3U3MhKKZwraHJYLd)
 
 4.embd_wt-preprocessed weights for embedding layer(embeddings+POS tags)(https://drive.google.com/open?id=1cl-XANZFQGHzCYaIQizWsTlJ9ld-PXgF)
+
+5.Final.pdf- Report on the project
+
+6.presentation- Pdf file of presentation given by me at tthe final seminar.
